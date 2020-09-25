@@ -13,3 +13,12 @@ Members
 5. Hrishikesh - confusion(discord) - 3rd year Mech UG
 6. Rajasekhar - Raja_sekhar(discord) - 2nd year CS undergrad - Rajasekhar18110 (Github) - https://github.com/Rajasekhar18110
 7. Suraj Bhan Mundotiya - suraj_bhan(discord) - 3rd year MME UG - Suraj-bhan (Github)(https://github.com/Suraj-bhan)
+
+#### Getting Started
+```
+git clone https://github.com/your_github_username/oss_website.git (Clone your fork basically)
+cd oss_website
+cd frontend
+npm i
+npm start
+```
